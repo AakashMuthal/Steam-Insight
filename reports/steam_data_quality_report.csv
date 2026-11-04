@@ -1,0 +1,10 @@
+Check,Result
+Total Rows,500
+Total Columns,8
+Missing Values,46
+Duplicate Records,8
+Unique Game Names,440
+Missing Game Names,1
+Negative Prices,0
+Negative Review Counts,0
+Negative Playtime,0
